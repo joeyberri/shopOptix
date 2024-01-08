@@ -3,7 +3,6 @@ Scaffold for retail management app
 ## Installation
 ```
 # Clone this repository
-git clone https://github.com/WailanTirajoh/nuxt3-admin-template.git
 
 # Go to directory
 cd nuxt3-admin-template
@@ -19,9 +18,3 @@ pnpm dev
 # Install Husky
 npx husky install
 ```
-
-## Preview
-url: https://nuxt3-admin-template.vercel.app
-
-## Docs
-vue3-tailwind docs: https://vue3-tailwind-docs.vercel.app/guide/getting-started.html
